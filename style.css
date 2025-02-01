@@ -8,3 +8,11 @@
     margin: 200px auto;
     border-radius: 20px;
 }
+
+.progress-bar
+{
+    width: 50%;
+    height: 30px;
+    background-color: blue;
+    border-radius: 20px;
+}
